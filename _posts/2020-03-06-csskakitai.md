@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CSSをカスタマイズしようと思ったら
-date: 2020-03-06 0:45
+date: 2020-03-06 0:45 +0900
 categories: computer blog
 ---
 

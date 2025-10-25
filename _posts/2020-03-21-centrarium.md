@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JekyllのテーマをCentrariumにしたい人へ
-date: 2020-03-21 21:35
+date: 2020-03-21 21:35 +0900
 categories: computer blog
 ---
 

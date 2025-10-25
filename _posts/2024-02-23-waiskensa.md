@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 人生に悩んでIQテスト(WAIS-IV)を受けた
-date: 2024-02-23 22:00
+date: 2024-02-23 22:00 +0900
 categories: 体験記
 ---
 

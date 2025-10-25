@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CodePen使ってみた！
-date: 2020-03-24 20:25
+date: 2020-03-24 20:25 +0900
 categories: computer coding
 ---
 今日はずっと使ってみたかった**CodePen**というサイトを使ってみたので、記事にしました！

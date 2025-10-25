@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ブログをリニューアルしました！
-date: 2025-10-25
+date: 2025-10-25 20:30 +0900
 categories: computer blog
 pin: true
 ---
