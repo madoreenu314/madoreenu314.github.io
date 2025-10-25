@@ -1,0 +1,135 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+*{
+  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
+}
+#toc-popup .header .label {
+  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
+}
+
+body{
+  //font-family: "Shippori Mincho", serif;
+  -webkit-font-smoothing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-synthesis: none;
+}
+
+h1{ //記事のタイトル
+  -webkit-font-smoothing: antialiased;
+  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
+  font-size:1.7rem;
+  font-weight: bold;
+}
+h2{
+  font-size:1.25rem;
+  font-weight: bold;
+}
+h3{
+  font-size:1rem;
+  font-weight: bold;
+}
+body p { //フッターもpだった。.body
+  font-size:0.96em;
+  color: #293030;
+  line-height: 1.8;
+}
+footer p{
+  color: #757575;
+}
+ul, ol {
+  font-size: 1rem;
+
+  li {
+    font-size: inherit;
+
+    ul, ol {
+      font-size: inherit;
+
+      li {
+        font-size: inherit;
+      }
+    }
+  }
+}
+
+// ↓デザイン関連
+:focus:not(:focus-visible) {
+  outline: none !important;
+  box-shadow: none !important; /* Bootstrap等の影も消す */
+}
+.btn:hover {
+  background-color: #64c7b5;
+  outline: none !important;
+  box-shadow: none !important; 
+  box-shadow: 0 0 0 2px #fff !important; /* レイアウト不変で確実 */
+}
+
+#sidebar {
+  background-color: #64c7b5;
+  color: white;
+}
+
+#sidebar a,
+#sidebar .site-title,
+#sidebar .site-subtitle {
+  color: inherit;
+}
+#sidebar .site-title:hover {
+  color: white;
+}
+
+#sidebar .sidebar-bottom #mode-toggle:hover, #sidebar .sidebar-bottom a:hover, #sidebar .site-title:hover {
+  //color: white;
+}
+
+#sidebar ul li.nav-item a.nav-link:hover {
+  background-color: #ffffff32; //透けてる白
+}
+#sidebar ul li.nav-item.active .nav-link {
+  color: white;
+  background-color: #ffffff40; //透けてる白
+}
+
+#search-results a {
+  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
+  font-size: 1.1rem;
+  font-weight: bold;
+  line-height: 1.5rem;
+}
+
+#page-category ul>li, #page-tag ul>li {
+  line-height: 1.5rem;
+  padding: .3rem 0;
+  font-size: 0.99rem;
+}
+#archives ul li {
+  font-size: 1rem;
+  line-height: 3rem;
+  //margin: -0.7rem 0;
+}
+
+#related-posts .card h4, {
+  font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
+  font-size: 1.1rem;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+} // Further readingのタイトル字
+
+span.readtime { //min read消した
+  display: none;
+}
+
+header .post-desc, #toc-bar .label, #search-results a, h1, h2, h3, h4, h5
+ {
+    font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
+}
