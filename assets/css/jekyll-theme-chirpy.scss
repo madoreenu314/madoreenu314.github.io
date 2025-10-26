@@ -133,3 +133,10 @@ header .post-desc, #toc-bar .label, #search-results a, h1, h2, h3, h4, h5
  {
     font-family: "游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
 }
+
+
+@media (max-width: 768px) {
+  .text-muted.small.text-nowrap{
+    display: none; //スマホの時はカテゴリ日付表示なし
+  }
+}
