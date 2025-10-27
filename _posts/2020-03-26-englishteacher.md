@@ -3,6 +3,7 @@ layout: post
 title: 英語の授業で思うこと
 date: 2020-03-26 02:20 +0900
 categories: poem
+tag: English
 ---
 今は深夜だ。ということで深夜テンション突入。ポエムを書いていこうと思う。
 
