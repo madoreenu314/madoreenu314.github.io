@@ -1,0 +1,145 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://madoreenu314.github.io/</id>
+  <title>Go for IT!</title>
+  <subtitle>なんでもブログです。</subtitle>
+  <updated>2025-11-13T23:57:47+09:00</updated>
+  <author>
+    <name>madoreenu</name>
+    <uri>https://madoreenu314.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://madoreenu314.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="ja"
+    href="https://madoreenu314.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 madoreenu </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>TOEIC IPテスト オンライン版 受験記</title>
+    <link href="https://madoreenu314.github.io/posts/toeicip/" rel="alternate" type="text/html" title="TOEIC IPテスト オンライン版 受験記" />
+    <published>2025-10-27T19:30:00+09:00</published>
+  
+    <updated>2025-10-27T19:30:00+09:00</updated>
+  
+    <id>https://madoreenu314.github.io/posts/toeicip/</id>
+    <content type="text/html" src="https://madoreenu314.github.io/posts/toeicip/" />
+    <author>
+      <name>madoreenu</name>
+    </author>
+
+  
+    
+    <category term="体験記" />
+    
+  
+
+  <summary>TOEIC L&amp;amp;R IPテストを受けました。公開テストよりも受けやすいと感じたのでおすすめしたく書き残します。  IPテストとは  大学や企業が主催し、所属する人が受験する団体受験のことです。私は所属している大学がかなり高頻度で開催しているため、受けたいなと思った時にちょうど申し込むことができました。  オンライン版のメリット     自宅で好きな時間帯に受けられる。   CAT(Computerized Adaptive Testing)方式のため、問題数が少なく、1時間ほどで終わる。これは公開テストの約半分！   解き終わった瞬間にスコアがわかる。   スコアは公開テストと同じように履歴書に記載可能。   暴れながら受けられる他人or自分の独り言や貧乏ゆすり等も気にせず受けられる。   ほんとにおすすめです。  IPの方が高得点を取れるのか？  私は先月人生初の公開テスト...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>ブログをリニューアルしました！</title>
+    <link href="https://madoreenu314.github.io/posts/renewblog/" rel="alternate" type="text/html" title="ブログをリニューアルしました！" />
+    <published>2025-10-25T20:30:00+09:00</published>
+  
+    <updated>2025-10-25T20:30:00+09:00</updated>
+  
+    <id>https://madoreenu314.github.io/posts/renewblog/</id>
+    <content type="text/html" src="https://madoreenu314.github.io/posts/renewblog/" />
+    <author>
+      <name>madoreenu</name>
+    </author>
+
+  
+    
+    <category term="computer" />
+    
+    <category term="blog" />
+    
+  
+
+  <summary>お久しぶりです。凡ミス（パソコンが壊れたかつ紐づけていたメアドを深く考えず手放してしまった）により、高校の頃から運営していたブログに紐づいていたGitHubアカウントにアクセスできなくなってしまったので、新たなアカウントでサイトを作り直しました。管理できないブログがネットの海を1000年彷徨うことが確定したようですが、強く生きていこうと思います。。皆さんはリカバリーコードを保存したり、普段から使うメアドを紐づけるようにしたり、大いに気をつけてください。。  新しいテーマ  Chirpyというテーマを使用しました。非常に洗練されたテーマだと思います。特に、読み進めると右の方に表示されるコンテンツ表示が変化していくところがお気に入りです。検索窓もあっていいですね。Further readingsが表示されるところとかも、今の私じゃこんないい感じに実装できないのでありがたいです。以前使って...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>アキレスと亀</title>
+    <link href="https://madoreenu314.github.io/posts/achilles/" rel="alternate" type="text/html" title="アキレスと亀" />
+    <published>2024-04-19T14:00:00+09:00</published>
+  
+    <updated>2024-04-19T14:00:00+09:00</updated>
+  
+    <id>https://madoreenu314.github.io/posts/achilles/</id>
+    <content type="text/html" src="https://madoreenu314.github.io/posts/achilles/" />
+    <author>
+      <name>madoreenu</name>
+    </author>
+
+  
+    
+    <category term="poem" />
+    
+  
+
+  <summary>大学の哲学の授業で一瞬触れられた「アキレスと亀」パラドックス。  これ（激遅亀と爆速アキレスが競走する。亀はハンデとしてアキレスより先の地点からスタート。アキレスが亀のいる地点に到着した時には亀は先に進んでおり、さらにアキレスが亀の進んだ先に到着した時には亀はさらに先に進んでいる。このことが繰り返されるため、アキレスはいつまで経っても亀には追い付けない。）について授業の質問フォーラムで質問があったため、投稿してみた。  あらかじめ書いたmarkdownがmoodle（大学で使ってる授業管理？サイト）のフォーラムで読み込まれず書き直す羽目になった上、改行しまくりの文章になったまま制限時間（いる？）が終わり、ちょっと嫌だった。。改行嫌いなのに大好きみたいじゃん。。言い回しも、わかりやすさとウザさの狭間で悩んだ。ほんとの数学の人が読んだら怒られそうな気が。。無限の概念って本当に難しいです。...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>思考と客観性と優しさと</title>
+    <link href="https://madoreenu314.github.io/posts/ningen/" rel="alternate" type="text/html" title="思考と客観性と優しさと" />
+    <published>2024-02-26T02:00:00+09:00</published>
+  
+    <updated>2024-02-26T02:00:00+09:00</updated>
+  
+    <id>https://madoreenu314.github.io/posts/ningen/</id>
+    <content type="text/html" src="https://madoreenu314.github.io/posts/ningen/" />
+    <author>
+      <name>madoreenu</name>
+    </author>
+
+  
+    
+    <category term="poem" />
+    
+  
+
+  <summary>優しさとはなにか。  定義は人によってバラバラなのだろうが、私にとって優しい人とは、問題にぶつかった時、考えることをやめない人である。いや、考えることをやめる人、やめることができてしまう人は優しくないと言うべきか。  結論を急がず、なにかを考え続けるという行為には苦痛が伴う。苦痛が伴っていないのなら、きっとまだ考え足りていないのだ。そしてそういう態度は、絶対とは言わないが、いつか誰かを傷つけうる。こいつ何も考えてないな、客観性のカケラもねえなと気づく人こそ少ないだろうが、それはひどく利己的なことだ。考え足りていない人は、きっと誰かを傷つけたことにも気づかずに幸せにやっていけるだろう。残念だが社会はそういうふうにできている。これに気づいてしまうとどうしてもちょっと嫌な気持ちになる。でもそれでも考えることをやめないべきだ。  何のために苦痛を伴って考えるか、といったら、それは今の自分には...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>人生に悩んでIQテスト(WAIS-IV)を受けた</title>
+    <link href="https://madoreenu314.github.io/posts/waiskensa/" rel="alternate" type="text/html" title="人生に悩んでIQテスト(WAIS-IV)を受けた" />
+    <published>2024-02-23T22:00:00+09:00</published>
+  
+    <updated>2024-02-23T22:00:00+09:00</updated>
+  
+    <id>https://madoreenu314.github.io/posts/waiskensa/</id>
+    <content type="text/html" src="https://madoreenu314.github.io/posts/waiskensa/" />
+    <author>
+      <name>madoreenu</name>
+    </author>
+
+  
+    
+    <category term="体験記" />
+    
+  
+
+  <summary>めちゃくちゃお久しぶりです。もう自分が20歳ということに驚きます。タバコにも既に手を出してしまいましたひえ〜。  タイトルにある通りのお話です。結論から言うと、なんか自分周りと違うかも、、みたいな悩みがある人は、その説明を得るためにIQテスト、知能検査を受けてみても良いかもしれないです。病院のちゃんとしたやつ。趣味や興味本位で受けるものではないと言われればそうなのかもですが、モヤモヤしてるなら堂々と受ければいいと思います。トピック的にあんま軽々しいことは言えませんが、誰かの参考になったら嬉しいというか試験前自分が見たかったので、検査の内容には触れずに色々メモを残そうと思います。  なぜ受けたか  色々（いろいろ、、）あってかなり鬱っぽくなってしまい、長年見ないふりをしてきた発達障害の疑惑も頭をもたげてきたため、自分の特性について早めに知った方が今後の人生に有益かな〜と感じたので、人生...</summary>
+
+  </entry>
+
+</feed>
+
+
