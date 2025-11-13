@@ -152,4 +152,25 @@ header .post-desc, #toc-bar .label, #search-results a, h1, h2, h3, h4, h5
   .post-navigation .btn p {
     font-size: 0.90rem;  /* 好きなサイズ */
   }
+  ul, ol {
+    font-size: 0.90rem;
+  
+    li {
+      font-size: inherit;
+  
+      ul, ol {
+        font-size: inherit;
+  
+        li {
+          font-size: inherit;
+        }
+      }
+    }
+  }
+  table {
+    font-size: 0.9rem;  /* お好みで 0.8rem とか */
+  }
+  details > summary {
+    font-size: 0.9rem;   /* 好きなサイズに */
+  }
 }
