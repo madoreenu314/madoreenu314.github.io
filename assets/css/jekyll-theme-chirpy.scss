@@ -43,6 +43,7 @@ body p { //フッターもpだった。.body
   color: #293030;
   line-height: 1.8;
 }
+
 footer p{
   color: #757575;
 }
@@ -141,5 +142,14 @@ header .post-desc, #toc-bar .label, #search-results a, h1, h2, h3, h4, h5
   }
   .dash{
     border-bottom: white; //てんてん消す
+  }
+  body p { //フッターもpだった。.body
+    font-size:0.96rem;
+  }
+  h1{
+    font-size: 1.5rem;
+  }
+  .post-navigation .btn p {
+    font-size: 0.9rem;  /* 好きなサイズ */
   }
 }
