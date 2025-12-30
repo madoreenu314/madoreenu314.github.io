@@ -60,3 +60,8 @@ order: 4
 - [X](https://x.com/madoreenu314)
 - [GitHub(new account)](https://github.com/madoreenu314)
 - [Qiita](https://qiita.com/madoreenu)
+- [ブクログ](https://booklog.jp/users/madoreenu)
+
+## Badges
+[![Rating](https://badgen.org/img/atcoder/madoreenu/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/madoreenu?contestType=algo)
+[![Contributions](https://badgen.org/img/qiita/madoreenu/contributions?style=for-the-badge)](https://qiita.com/madoreenu)
