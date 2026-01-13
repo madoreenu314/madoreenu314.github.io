@@ -4,7 +4,7 @@
   <id>https://madoreenu314.github.io/</id>
   <title>Go for IT!</title>
   <subtitle>なんでもブログです。</subtitle>
-  <updated>2026-01-01T01:10:36+09:00</updated>
+  <updated>2026-01-13T19:17:59+09:00</updated>
   <author>
     <name>madoreenu</name>
     <uri>https://madoreenu314.github.io/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Electronでデスクトップタイマー作ってみた</title>
+    <link href="https://madoreenu314.github.io/posts/desktopapp/" rel="alternate" type="text/html" title="Electronでデスクトップタイマー作ってみた" />
+    <published>2026-01-13T19:00:00+09:00</published>
+  
+    <updated>2026-01-13T19:00:00+09:00</updated>
+  
+    <id>https://madoreenu314.github.io/posts/desktopapp/</id>
+    <content type="text/html" src="https://madoreenu314.github.io/posts/desktopapp/" />
+    <author>
+      <name>madoreenu</name>
+    </author>
+
+  
+    
+    <category term="computer" />
+    
+    <category term="coding" />
+    
+  
+
+  <summary>最近インスタでよく見かける@nashalleryさんに触発され、彼女のチュートリアルビデオを見ながらElectronを使って簡易なポモドーロタイマーのデスクトップアプリを作ってみました。    今まで深く考えずとりあえずmacデフォルトのターミナルを使っていましたが、VSCode内のを使えばわざわざcdしなくていいんですね。。オートコレクションもあるみたいでとても便利だということに今更気づきました。  Electronって？ Electronを使うと、web気分（JavaScriptとHTML&amp;amp;CSS）でデスクトップアプリが作れます。ググるとオワコンと出てきます。  npm install electron --save-dev   書けたの？  チュートリアルでとりあえずコピペするよう勧められたコード以外は書きました。結局そのコピペ部分も後々ウィンドウを小さくしたくなってち...</summary>
+
+  </entry>
 
   
   <entry>
@@ -113,30 +139,6 @@
   
 
   <summary>大学の哲学の授業で一瞬触れられた「アキレスと亀」パラドックス。  これ（激遅亀と爆速アキレスが競走する。亀はハンデとしてアキレスより先の地点からスタート。アキレスが亀のいる地点に到着した時には亀は先に進んでおり、さらにアキレスが亀の進んだ先に到着した時には亀はさらに先に進んでいる。このことが繰り返されるため、アキレスはいつまで経っても亀には追い付けない。）について授業の質問フォーラムで質問があったため、投稿してみた。  あらかじめ書いたmarkdownがmoodle（大学で使ってる授業管理？サイト）のフォーラムで読み込まれず書き直す羽目になった上、改行しまくりの文章になったまま制限時間（いる？）が終わり、ちょっと嫌だった。。改行嫌いなのに大好きみたいじゃん。。言い回しも、わかりやすさとウザさの狭間で悩んだ。ほんとの数学の人が読んだら怒られそうな気が。。無限の概念って本当に難しいです。...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>思考と客観性と優しさと</title>
-    <link href="https://madoreenu314.github.io/posts/ningen/" rel="alternate" type="text/html" title="思考と客観性と優しさと" />
-    <published>2024-02-26T02:00:00+09:00</published>
-  
-    <updated>2024-02-26T02:00:00+09:00</updated>
-  
-    <id>https://madoreenu314.github.io/posts/ningen/</id>
-    <content type="text/html" src="https://madoreenu314.github.io/posts/ningen/" />
-    <author>
-      <name>madoreenu</name>
-    </author>
-
-  
-    
-    <category term="poem" />
-    
-  
-
-  <summary>優しさとはなにか。  定義は人によってバラバラなのだろうが、私にとって優しい人とは、問題にぶつかった時、考えることをやめない人である。いや、考えることをやめる人、やめることができてしまう人は優しくないと言うべきか。  結論を急がず、なにかを考え続けるという行為には苦痛が伴う。苦痛が伴っていないのなら、きっとまだ考え足りていないのだ。そしてそういう態度は、絶対とは言わないが、いつか誰かを傷つけうる。こいつ何も考えてないな、客観性のカケラもねえなと気づく人こそ少ないだろうが、それはひどく利己的なことだ。考え足りていない人は、きっと誰かを傷つけたことにも気づかずに幸せにやっていけるだろう。残念だが社会はそういうふうにできている。これに気づいてしまうとどうしてもちょっと嫌な気持ちになる。でもそれでも考えることをやめないべきだ。  何のために苦痛を伴って考えるか、といったら、それは今の自分には...</summary>
 
   </entry>
 
