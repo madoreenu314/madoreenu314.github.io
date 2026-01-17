@@ -34,7 +34,7 @@ CSSは結構忘れていて勘で書きました。
 
 とりあえず形になりました。自分専用のアプリを作ってみたかったのでできて嬉しいです！見た目も可愛いフォントを見つけたのでそこそこいい感じになりました。
 
-[https://github.com/madoreenu314/pomodoro](https://github.com/madoreenu314/pomodoro)
+<a href="https://github.com/madoreenu314/pomodoro"><img src="https://gh-card.dev/repos/madoreenu314/pomodoro.svg" width="440"></a>
 
 ## アプリとして使う際の備忘録
 
