@@ -4,7 +4,7 @@
   <id>https://madoreenu314.github.io/</id>
   <title>Go for IT!</title>
   <subtitle>なんでもブログです。</subtitle>
-  <updated>2026-01-19T18:18:23+09:00</updated>
+  <updated>2026-02-04T17:03:26+09:00</updated>
   <author>
     <name>madoreenu</name>
     <uri>https://madoreenu314.github.io/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>ハッカソン参加記</title>
+    <link href="https://madoreenu314.github.io/posts/firsthackathon/" rel="alternate" type="text/html" title="ハッカソン参加記" />
+    <published>2026-02-04T16:20:00+09:00</published>
+  
+    <updated>2026-02-04T16:20:00+09:00</updated>
+  
+    <id>https://madoreenu314.github.io/posts/firsthackathon/</id>
+    <content type="text/html" src="https://madoreenu314.github.io/posts/firsthackathon/" />
+    <author>
+      <name>madoreenu</name>
+    </author>
+
+  
+    
+    <category term="computer" />
+    
+    <category term="coding" />
+    
+  
+
+  <summary>先日、初めてハッカソンというものにとある機会で参加しました。初心者向けを謳ってはいましたが、私は開発経験がないに等しいため参加自体がかなりの冒険でした。2人チームで10時間程度かけプロダクトをひとつ形にすることができました。覚えているうちに色々書き残しておこうと思います。  チーム編成  完全オンライン、2日間（7時間×2）のハッカソンでした。全体では30人程度の人が参加していたように思います。ぱっと見みなさん大学生くらいで、友人とチームを組んでいる人もいました。私のチームには本当は4人いるはずだった。。のですが私ともう1人しかいませんでした。情報専攻ではないのに個人開発を趣味でされているというすごい方（Aさん）だったので、とても心強かったです。しかしお互いチーム開発の経験はゼロだったため、二人とも普段使うgitコマンドは正直3つくらいしかないんですよねトホホえ同じですか！？というこ...</summary>
+
+  </entry>
 
   
   <entry>
@@ -115,32 +141,6 @@
   
 
   <summary>TOEIC L&amp;amp;R IPテストを受けました。公開テストよりも受けやすいと感じたのでおすすめしたく書き残します。  IPテストとは  大学や企業が主催し、所属する人が受験する団体受験のことです。私は所属している大学がかなり高頻度で開催しているため、受けたいなと思った時にちょうど申し込むことができました。  オンライン版のメリット     自宅で好きな時間帯に受けられる。   CAT(Computerized Adaptive Testing)方式のため、問題数が少なく、1時間ほどで終わる。これは公開テストの約半分！   解き終わった瞬間にスコアがわかる。   スコアは公開テストと同じように履歴書に記載可能。   暴れながら受けられる他人or自分の独り言や貧乏ゆすり等も気にせず受けられる。   ほんとにおすすめです。  IPの方が高得点を取れるのか？  私は先月人生初の公開テスト...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>ブログをリニューアルしました！</title>
-    <link href="https://madoreenu314.github.io/posts/renewblog/" rel="alternate" type="text/html" title="ブログをリニューアルしました！" />
-    <published>2025-10-25T20:30:00+09:00</published>
-  
-    <updated>2025-10-25T20:30:00+09:00</updated>
-  
-    <id>https://madoreenu314.github.io/posts/renewblog/</id>
-    <content type="text/html" src="https://madoreenu314.github.io/posts/renewblog/" />
-    <author>
-      <name>madoreenu</name>
-    </author>
-
-  
-    
-    <category term="computer" />
-    
-    <category term="blog" />
-    
-  
-
-  <summary>お久しぶりです。凡ミス（パソコンが壊れたかつ紐づけていたメアドを深く考えず手放してしまった）により、高校の頃から運営していたブログに紐づいていたGitHubアカウントにアクセスできなくなってしまったので、新たなアカウントでサイトを作り直しました。管理できないブログがネットの海を1000年彷徨うことが確定したようですが、強く生きていこうと思います。。皆さんはリカバリーコードを保存したり、普段から使うメアドを紐づけるようにしたり、大いに気をつけてください。。  新しいテーマ  Chirpyというテーマを使用しました。非常に洗練されたテーマだと思います。特に、読み進めると右の方に表示されるコンテンツ表示が変化していくところがお気に入りです。検索窓もあっていいですね。Further readingsが表示されるところとかも、今の私じゃこんないい感じに実装できないのでありがたいです。以前使って...</summary>
 
   </entry>
 

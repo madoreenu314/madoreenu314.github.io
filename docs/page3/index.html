@@ -30,24 +30,25 @@
 
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.4.1" />
-<meta property="og:title" content="music" />
+<meta property="og:title" content="Go for IT!" />
 <meta property="og:locale" content="ja" />
 <meta name="description" content="なんでもブログです。" />
 <meta property="og:description" content="なんでもブログです。" />
-<link rel="canonical" href="https://madoreenu314.github.io/categories/music/" />
-<meta property="og:url" content="https://madoreenu314.github.io/categories/music/" />
+<link rel="canonical" href="https://madoreenu314.github.io/page3/" />
+<meta property="og:url" content="https://madoreenu314.github.io/page3/" />
 <meta property="og:site_name" content="Go for IT!" />
 <meta property="og:type" content="website" />
+<link rel="prev" href="https://madoreenu314.github.io/page2" />
 <meta property="og:image" content="https://madoreenu314.github.io/assets/img/avatar.png" /><meta name="twitter:card" content="summary_large_image" />
       <meta property="twitter:image" content="https://madoreenu314.github.io/assets/img/avatar.png" />
-<meta property="twitter:title" content="music" />
+<meta property="twitter:title" content="Go for IT!" />
 <meta name="twitter:site" content="@madoreenu314" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"なんでもブログです。","headline":"music","url":"https://madoreenu314.github.io/categories/music/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"なんでもブログです。","headline":"Go for IT!","url":"https://madoreenu314.github.io/page3/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
-  <title>music | Go for IT!
+  <title>Go for IT!
   </title>
 
   <!--
@@ -106,6 +107,8 @@
   
 
   
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.min.css">
+  
 
   
 
@@ -122,6 +125,10 @@
 <!-- layout specified -->
 
 
+  
+
+  
+
 
 
 
@@ -171,9 +178,16 @@
 
   
 
+  
+    
+
+    
+
+  
 
 
-  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/dayjs@1.11.18/dayjs.min.js,npm/dayjs@1.11.18/locale/en.js,npm/dayjs@1.11.18/plugin/relativeTime.js,npm/dayjs@1.11.18/plugin/localizedFormat.js"></script>
+
+  <script defer src="https://cdn.jsdelivr.net/combine/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js,npm/loading-attribute-polyfill@2.1.1/dist/loading-attribute-polyfill.umd.min.js,npm/dayjs@1.11.18/dayjs.min.js,npm/dayjs@1.11.18/locale/en.js,npm/dayjs@1.11.18/plugin/relativeTime.js,npm/dayjs@1.11.18/plugin/localizedFormat.js"></script>
 
 
 
@@ -181,7 +195,7 @@
 
 
 
-<script defer src="/assets/js/dist/misc.min.js"></script>
+<script defer src="/assets/js/dist/home.min.js"></script>
 
 
 
@@ -211,7 +225,7 @@
   <nav class="flex-column flex-grow-1 w-100 ps-0">
     <ul class="nav">
       <!-- home -->
-      <li class="nav-item">
+      <li class="nav-item active">
         <a href="/" class="nav-link">
           <i class="fa-fw fas fa-home"></i>
           <span>HOME</span>
@@ -348,27 +362,9 @@
       
 
       
-        
-          
-            <span>
-              <a href="/">Home</a>
-            </span>
+        <!-- index page -->
+        <span>Home</span>
 
-          
-        
-          
-            <span>
-              <a href="/categories/">Categories</a>
-            </span>
-          
-        
-          
-            
-              <span>music</span>
-            
-
-          
-        
       
     </nav>
     <!-- endof #breadcrumb -->
@@ -378,7 +374,7 @@
     </button>
 
     <div id="topbar-title">
-      Category
+      Go for IT!
     </div>
 
     <button type="button" id="search-trigger" class="btn btn-link" aria-label="Search">
@@ -404,29 +400,112 @@
         <div class="row flex-grow-1">
           <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4">
             
-              
+              <!-- Refactor the HTML structure -->
 
 
 
-<article class="px-1">
+<!--
+  In order to allow a wide table to scroll horizontally,
+  we suround the markdown table with `<div class="table-wrapper">` and `</div>`
+-->
+
+
+
+<!--
+  Fixed kramdown code highlight rendering:
+  https://github.com/penibelst/jekyll-compress-html/issues/101
+  https://github.com/penibelst/jekyll-compress-html/issues/71#issuecomment-188144901
+-->
+
+
+
+<!-- Change the icon of checkbox -->
+
+
+
+<!-- Handle images -->
+
+
+
+
+
+<!-- Add header for code snippets -->
+
+
+
+<!-- Create heading anchors -->
+
+
+
+
+
   
-    
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
 
 
 
-<div id="page-category">
-  <h1 class="ps-lg-2">
-    <i class="far fa-folder-open fa-fw text-muted"></i>
-    music
-    <span class="lead text-muted ps-2">1</span>
-  </h1>
 
-  <ul class="content ps-0">
-    
-      <li class="d-flex justify-content-between px-md-3">
-        <a href="/posts/spotify/">Spotifyプレイリスト作ってみた（洋楽）</a>
-        <span class="dash flex-grow-1"></span>
-        <!--
+<!-- return -->
+
+
+
+
+
+
+
+
+
+<!-- Get pinned posts on current page -->
+
+
+
+
+
+
+<!-- Get normal posts on current page -->
+
+
+
+
+
+<div id="post-list" class="flex-grow-1 px-xl-1">
+  
+    <article class="card-wrapper card">
+      <a href="/posts/first/" class="post-preview row g-0 flex-md-row-reverse">
+        
+
+        
+
+        <div class="col-md-12">
+          <div class="card-body d-flex flex-column">
+            <h1 class="card-title my-2 mt-md-0">Jekyllでブログ作ってみた</h1>
+
+            <div class="card-text content mt-0 mb-3">
+              <p>ずっとブログ系のサイトを作ってみたかったので嬉しいです！1日かかってしまいました。。  ターミナルからGitHubにコミットすることがとても難しくて、学生エンジニアの皆さんはこれを簡単にやっているのだなと思うと改めてすごいなと感じました。  ただ、ターミナル超初心者（ほぼ今日から）としては結構頑張れたんじゃないかと思います。  これからはデザインを工夫したり、SNS関係で共有できるボタンをつ...</p>
+            </div>
+
+            <div class="post-meta flex-grow-1 d-flex align-items-end">
+              <div class="me-auto">
+                <!-- posted date -->
+                <i class="far fa-calendar fa-fw me-1"></i>
+                <!--
   Date format snippet
   See: ${JS_ROOT}/utils/locale-dateime.js
 -->
@@ -436,22 +515,131 @@
 
 <time
   
-    class="text-muted small text-nowrap"
-  
-  data-ts="1587808800"
+  data-ts="1583234400"
   data-df="ll"
   
 >
-  Apr 25, 2020
+  Mar  3, 2020
 </time>
 
-      </li>
-    
-  </ul>
-</div>
 
+                <!-- categories -->
+                
+                  <i class="far fa-folder-open fa-fw me-1"></i>
+                  <span class="categories">
+                    
+                      computer,
+                      blog
+                  </span>
+                
+              </div>
+
+              
+            </div>
+            <!-- .post-meta -->
+          </div>
+          <!-- .card-body -->
+        </div>
+      </a>
+    </article>
   
-</article>
+</div>
+<!-- #post-list -->
+
+
+  <!-- The paginator for post list on HomgPage. -->
+
+<nav aria-label="Page Navigation">
+  <ul class="pagination align-items-center mt-4 mb-0">
+    <!-- left arrow -->
+    
+
+    <li class="page-item ">
+      <a class="page-link" href="/page2" aria-label="previous-page">
+        <i class="fas fa-angle-left"></i>
+      </a>
+    </li>
+
+    <!-- page numbers -->
+    
+    
+
+    
+      
+      
+      
+      
+      
+
+      
+
+      
+        <!-- show number -->
+        <li class="page-item ">
+          <a
+            class="page-link"
+            href="/"
+          >1</a>
+        </li>
+      
+    
+      
+      
+      
+      
+      
+
+      
+
+      
+        <!-- show number -->
+        <li class="page-item ">
+          <a
+            class="page-link"
+            href="/page2"
+          >2</a>
+        </li>
+      
+    
+      
+      
+      
+      
+      
+
+      
+
+      
+        <!-- show number -->
+        <li class="page-item  active">
+          <a
+            class="page-link"
+            href="/page3"
+          >3</a>
+        </li>
+      
+    
+
+    <!-- mobile pagination -->
+    <li class="page-index align-middle">
+      <span>3</span>
+      <span class="text-muted">/ 3</span>
+    </li>
+
+    <!-- right arrow -->
+    
+
+    <li class="page-item disabled">
+      <a class="page-link" href="#" aria-label="next-page">
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </li>
+  </ul>
+</nav>
+<!-- .pagination -->
+
+
+
 
             
           </main>
