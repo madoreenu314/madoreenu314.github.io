@@ -60,7 +60,7 @@ order: 4
 - [X](https://x.com/madoreenu314)
 - [GitHub(new account)](https://github.com/madoreenu314)
 - [Qiita](https://qiita.com/madoreenu)
-- [ブクログ](https://booklog.jp/users/madoreenu)
+- [本棚](https://madoreenu-bookshelf.vercel.app/)
 
 ## Badges
 [![Rating](https://badgen.org/img/atcoder/madoreenu/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/madoreenu?contestType=algo)
