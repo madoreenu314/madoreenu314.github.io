@@ -4,7 +4,7 @@
   <id>https://madoreenu314.github.io/</id>
   <title>Go for IT!</title>
   <subtitle>なんでもブログです。</subtitle>
-  <updated>2026-04-19T22:34:42+09:00</updated>
+  <updated>2026-05-17T14:55:39+09:00</updated>
   <author>
     <name>madoreenu</name>
     <uri>https://madoreenu314.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>基本情報技術者試験 受験記</title>
+    <link href="https://madoreenu314.github.io/posts/feshiken/" rel="alternate" type="text/html" title="基本情報技術者試験 受験記" />
+    <published>2026-05-17T14:00:00+09:00</published>
+  
+    <updated>2026-05-17T14:00:00+09:00</updated>
+  
+    <id>https://madoreenu314.github.io/posts/feshiken/</id>
+    <content type="text/html" src="https://madoreenu314.github.io/posts/feshiken/" />
+    <author>
+      <name>madoreenu</name>
+    </author>
+
+  
+    
+    <category term="体験記" />
+    
+  
+
+  <summary>ずっと受ける受ける詐欺を続けて放置していた、基本情報技術者試験に合格しました！  科目Aが720、Bは855でした。両方600点で合格ラインなので、少し余裕を持って合格することができました。  どういう勉強をしたか受験直後にメモっていたものを、自分の今後の参考のためにここに残しておこうと思います。問題の内容に対する言及はありません。  勉強期間 20時間程度（約3ヶ月の本読み、しっかり問題を解いたのは5日ほど）  教材    「かやのき先生」本 ※版古いです   「いちばんやさしい」スマホアプリ   基本情報技術者試験ドットコム   gemini   かやのき先生の本にした理由は、表紙のネコちゃんがかわいかったからです。。  勉強方法 科目A  かやのき先生本を始めから最後まで読み通してから勉強をスタートさせようと思ったが、なかなか集中が続かない私にとって読み切ること自体難しく、こん...</summary>
+
+  </entry>
 
   
   <entry>
@@ -117,30 +141,6 @@
   
 
   <summary>目標は書くと叶うらしいと風の噂で聞きました。  私も有意義な1年間を過ごし、年末には何らかの振り返り記事を書きたいということで、目標を101個立ててみました。  以下の目標のうち7割を達成したいです。     「2026年の目標101」を月1で眺める   生き延びる   就活を自分なりに頑張る   将来のことを一生懸命考える   卒論を終わらせる＝卒業する   就職する   焦らない1   物事のいいところを見るのを忘れない2   根拠のない自信を持つ   自分の変えられないところは好意的に受け入れる   世界平和について定期的に考える   何かや自分以外の誰かを盲信しない   朝はほぼ毎日8時台に起きる3   目が覚めてから30分以内に起き上がる   病気以外で1時間を超える昼寝をしない   夜はほぼ毎日1時までに寝る   時間の使い道について考える   ほぼ毎日朝ごはんを食べる ...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>TOEIC IPテスト オンライン版 受験記</title>
-    <link href="https://madoreenu314.github.io/posts/toeicip/" rel="alternate" type="text/html" title="TOEIC IPテスト オンライン版 受験記" />
-    <published>2025-10-27T19:30:00+09:00</published>
-  
-    <updated>2025-10-27T19:30:00+09:00</updated>
-  
-    <id>https://madoreenu314.github.io/posts/toeicip/</id>
-    <content type="text/html" src="https://madoreenu314.github.io/posts/toeicip/" />
-    <author>
-      <name>madoreenu</name>
-    </author>
-
-  
-    
-    <category term="体験記" />
-    
-  
-
-  <summary>TOEIC L&amp;amp;R IPテストを受けました。公開テストよりも受けやすいと感じたのでおすすめしたく書き残します。  IPテストとは  大学や企業が主催し、所属する人が受験する団体受験のことです。私は所属している大学がかなり高頻度で開催しているため、受けたいなと思った時にちょうど申し込むことができました。  オンライン版のメリット     自宅で好きな時間帯に受けられる。   CAT(Computerized Adaptive Testing)方式のため、問題数が少なく、1時間ほどで終わる。これは公開テストの約半分！   解き終わった瞬間にスコアがわかる。   スコアは公開テストと同じように履歴書に記載可能。   暴れながら受けられる他人or自分の独り言や貧乏ゆすり等も気にせず受けられる。   ほんとにおすすめです。  IPの方が高得点を取れるのか？  私は先月人生初の公開テスト...</summary>
 
   </entry>
 
