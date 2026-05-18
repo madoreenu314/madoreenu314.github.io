@@ -17,7 +17,7 @@ order: 4
 ## 好きなもの
 
 |たべもの|ぶどう/ぶどう味<br>たまごボーロみたいな味<br>鮭・いくら<br>餃子<br>ピーマンの肉詰め|
-|ツールとか|MacBook Air<br>Kindle<br>Obsidian<br>TRAVELER'S notebook|
+|ツールとか|MacBook Air<br>Xteink X4<br>VSCode<br>TRAVELER'S notebook|
 |本|はてしない物語<br>One Last Stop|
 |映画|リメンバー・ミー<br>Mr.ビーン カンヌで大迷惑?!|
 |クラシック曲|ブラームス 交響曲第1番<br>シベリウス 交響曲第2番<br>シベリウス フィンランディア<br>メンデルスゾーン 交響曲第5番(宗教改革)|
@@ -59,6 +59,7 @@ order: 4
 ## Links
 - [X](https://x.com/madoreenu314)
 - [GitHub(new account)](https://github.com/madoreenu314)
+- [note](https://note.com/madoreenu)
 - [Qiita](https://qiita.com/madoreenu)
 - [本棚](https://madoreenu-bookshelf.vercel.app/)
 
